@@ -2547,8 +2547,8 @@ MonoBehaviour:
   TrashMultiplier: 1
   TotalWater: 0
   TotalMineral: 0
-  decreaseWaterSpeed: 1
-  decreaseMineralSpeed: 1
+  decreaseWaterSpeed: 0.75
+  decreaseMineralSpeed: 0.75
   gameOver: {fileID: 1851470641}
   waterLevel: {fileID: 1395913521}
   mineralLevel: {fileID: 1341287168}
