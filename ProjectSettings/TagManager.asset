@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Water
+  - Mineral
+  - Trash
+  - Root
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Resources
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 234053129
+    locked: 0
+  - name: BackgroundObjects
+    uniqueID: 448684931
+    locked: 0
+  - name: Grass
+    uniqueID: 2717664697
+    locked: 0
+  - name: Resources
+    uniqueID: 2932703085
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3760334219
+    locked: 0
+  - name: Root
+    uniqueID: 3235085887
+    locked: 0
